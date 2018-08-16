@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">客显Demo</string>
+
+    <string name="secondary_display">第二显示屏</string>
+    <string name="no_secondary_display">没有第二显示屏</string>
+    <string name="start_video">开始播放视频</string>
+    <string name="stop_video">停止播放视频</string>
+    <string name="start_photo">开始播放图片</string>
+    <string name="stop_photo">停止播放图片</string>
+    <string name="start_text">开始播放文字</string>
+    <string name="stop_text">停止播放文字</string>
+    <string name="start_customer">开始客户输入</string>
+    <string name="stop_customer">停止客户输入</string>
+    <string name="str_input">请输入数字</string>
+    <string name="str_get_input">客户输入数字:</string>
+    <string name="str_ok">确定</string>
+    <string name="str_amount">总额:</string>
+    <string name="str_change">找零:</string>
+
+</resources>

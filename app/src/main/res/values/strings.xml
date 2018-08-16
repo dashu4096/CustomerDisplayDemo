@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CustomerDisplayDemo</string>
+
+    <string name="secondary_display">Secondary display</string>
+    <string name="no_secondary_display">Have not Secondary display</string>
+    <string name="start_video">Start play video</string>
+    <string name="stop_video">Stop play video</string>
+    <string name="start_photo">Start play photo</string>
+    <string name="stop_photo">Stop play photo</string>
+    <string name="start_text">Start play text</string>
+    <string name="stop_text">Stop play text</string>
+    <string name="start_customer">Start customer input</string>
+    <string name="stop_customer">Stop customer input</string>
+    <string name="str_input">Please input number</string>
+    <string name="str_get_input">Customer input number:</string>
+    <string name="str_ok">OK</string>
+    <string name="str_amount">Amount:</string>
+    <string name="str_change">Change:</string>
+
+</resources>

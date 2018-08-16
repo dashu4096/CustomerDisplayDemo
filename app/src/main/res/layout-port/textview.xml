@@ -1,0 +1,27 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+	android:background="@android:color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/amount"
+		android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+		android:textColor="@android:color/black"
+		android:textSize="32sp"/>
+
+    <TextView
+        android:id="@+id/change"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/amount"
+        android:layout_marginTop="20dp"
+		android:layout_alignLeft="@+id/amount"
+		android:textColor="@android:color/black"
+		android:textSize="32sp"/>
+
+</RelativeLayout>
